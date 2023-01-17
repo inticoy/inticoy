@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inticoy)](https://github.com/inticoy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=inticoy)](https://github.com/inticoy/github-readme-stats)
 
 
 <!--
