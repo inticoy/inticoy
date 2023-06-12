@@ -1,0 +1,80 @@
+{
+	"editor.fontSize": 14,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"42header.email": "gyoon@student.42seoul.kr",
+	"42header.username": "gyoon",
+	"zenMode.centerLayout": false,
+	"zenMode.fullScreen": false,
+	"editor.minimap.enabled": false,
+	"explorer.confirmDragAndDrop": false,
+	"github.copilot.advanced": {
+		
+	},
+
+	"editor.tokenColorCustomizations": {
+		"comments": "#799877",
+		"functions": "#c2fbc3",
+		"keywords": "#6bde70",
+		"numbers": "#c5fcbc",
+		"strings": "#ebc98e",
+		"types": "#effae9",
+		"variables": "#FFFFFF",
+	},
+
+	"workbench.colorTheme": "Kimbie Dark",
+	"workbench.colorCustomizations": {
+	
+		"breadcrumb.background": "#355033", // top path
+		"button.background": "#223a26",
+		"activityBar.activeBackground": "#162215",
+		"activityBar.border": "#00000000",
+		"activityBar.background": "#355033",
+
+		"editor.background": "#355033",
+		"editor.lineHighlightBackground": "#062704",
+		"editor.selectionBackground": "#062704",
+		"sideBar.background": "#2a4228",
+		
+		"editorGroupHeader.noTabsBackground": "#C1D1C2",
+		"editorGroupHeader.tabsBackground": "#355033",
+		"editorGutter.background": "#355033",
+		"editorWidget.background": "#355033", // cmd + p, editor hover
+		
+		"input.background": "#355033",
+		"input.foreground": "#FFFFFF",
+
+		"list.activeSelectionForeground": "#ffffff",
+		"list.inactiveSelectionForeground": "#ffffff",
+		"list.activeSelectionBackground": "#062704",
+		"list.inactiveSelectionBackground": "#062704",
+		"list.focusOutline": "#000000",
+		"list.hoverBackground": "#4e664c",
+		
+		"peekViewEditor.background": "#355033",
+		"peekViewResult.background": "#355033",
+		
+		"statusBar.background": "#355033",
+		
+		"tab.activeBackground": "#355033",
+		"tab.border": "#4f674e",
+		"tab.inactiveBackground": "#4d684c",
+		
+		"terminal.background": "#172716"
+		// "minimap.background": "#D0E0CF", // right end
+	},
+	"cpplint.cpplintPath": "/opt/homebrew/lib/python3.9/site-packages/cpplint.py",
+	"C_Cpp.default.cppStandard": "c++98",
+	
+	// 기본 포매터를 정의합니다.
+	"editor.defaultFormatter": "ms-vscode.cpptools",
+	// 저장할 때 코드를 포매팅합니다.
+	"editor.formatOnSave": true,
+	"clang-format.language.c.enable": false,
+	"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, AccessModifierOffset: -2}", //BreakBeforeBraces: Allman, IndentCaseLabels: false, UseTab: Never, IndentWidth: 2, TabWidth: 2, AllowShortIfStatementsOnASingleLine: false,  ColumnLimit: 80, AccessModifierOffset: -4, NamespaceIndentation: All, FixNamespaceComments: false
+	"C_Cpp.default.compilerPath": "/usr/bin/gcc",
+	"window.zoomLevel": 1,
+	"editor.tabSize": 2,
+}
