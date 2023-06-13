@@ -1,0 +1,164 @@
+{
+	// About Font
+	"window.zoomLevel": 1,
+	"editor.fontFamily": "JetBrainsMono Nerd Font",
+	"editor.fontSize": 14,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.bracketPairColorization.enabled": false,
+	"editor.guides.bracketPairs": "active",
+	
+	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+	
+	// Zen Mode
+	"zenMode.centerLayout": false,
+	"zenMode.fullScreen": false,
+	
+	// Git
+  "git.confirmSync": false,
+  "git.autofetch": true,
+	
+	// 42 header
+	"42header.email": "gyoon@student.42seoul.kr",
+	"42header.username": "gyoon",
+	
+	// Editor
+	"editor.tabSize": 2,
+	"editor.minimap.enabled": true,
+	"explorer.confirmDragAndDrop": false,
+	
+	// C++
+	"C_Cpp.default.cppStandard": "c++98",
+	"cpplint.cpplintPath": "/opt/homebrew/lib/python3.9/site-packages/cpplint.py",
+	"editor.defaultFormatter": "ms-vscode.cpptools",
+	"editor.formatOnSave": true,
+	"clang-format.language.c.enable": false,
+	"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, AccessModifierOffset: -2}", //BreakBeforeBraces: Allman, IndentCaseLabels: false, UseTab: Never, IndentWidth: 2, TabWidth: 2, AllowShortIfStatementsOnASingleLine: false,  ColumnLimit: 80, AccessModifierOffset: -4, NamespaceIndentation: All, FixNamespaceComments: false
+	"C_Cpp.default.compilerPath": "/usr/bin/gcc",
+
+	// Colors
+	"workbench.colorTheme": "Visual Studio Dark",
+
+	"editor.tokenColorCustomizations": {
+		"comments": "#ffffff60",
+		"functions": "#ffffff",
+		"keywords": "#77fb03",
+		"numbers": "#88d5ff",
+		"strings": "#88d5ff",
+		"types": "#ffffff",
+		"variables": "#ffffff",	
+		"textMateRules": [
+			{
+				"scope" : "entity",
+				"settings": {
+					"foreground": "#ffffff",
+				}
+			},
+			{
+				"scope" : "keyword.control",
+				"settings": {
+					"foreground": "#f8f675",
+				}
+			},
+			{
+				"scope" : "meta",
+				"settings": {
+					"foreground": "#d4fed3",
+				}
+			},
+			{
+				"scope" : "constant.language",
+				"settings": {
+					"foreground": "#88d5ff",
+				}
+			},
+			{
+				"scope" : "keyword.operator.assignment",
+				"settings": {
+					"foreground": "#ffffffD0",
+				}
+			},
+			{
+				"scope" : "entity.name.type",
+				"settings": {
+					"foreground": "#00cb6c",
+				}
+			},
+			{
+				"scope" : "storage.modifier",
+				"settings": {
+					"foreground": "#77fb03",
+				}
+			},
+		]	
+	},
+
+	"workbench.colorCustomizations": {
+		"breadcrumb.background": "#3c4c55", // top path
+		
+		"titleBar.activeBackground": "#3c4c55",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.border": "#ffffff00",
+		"titleBar.inactiveBackground": "#3c4c55",
+		"titleBar.inactiveForeground": "#ffffff",
+
+		"activityBar.activeBackground": "#2d393f",
+		"activityBar.background": "#3c4c55",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.border": "#ffffff00",
+		
+		"editor.background": "#3c4c55",
+		"editor.lineHighlightBackground": "#2d393f",
+		"editor.lineHighlightBorder": "#ffffff40",
+		"editor.selectionBackground": "#586e7b",
+		"editorIndentGuide.activeBackground": "#ffffff40",
+		"editorIndentGuide.background": "#ffffff40",
+		"editor.findMatchBackground": "#ffdd00b8",
+		"editor.findMatchHighlightBackground": "#ffdd0056",
+		"editorLineNumber.activeForeground": "#ffce1b",
+		"editorLineNumber.foreground": "#fcefbf74",
+		
+		"sideBar.background": "#2d393f",
+		"sideBar.foreground": "#ffffffC0",
+		"sideBarTitle.foreground": "#ffffff",
+		"sideBarSectionHeader.background": "#3a474d",
+		"sideBarSectionHeader.foreground": "#ffffff86",
+		"sideBarSectionHeader.border": "#ffffff16",
+		
+		"list.activeSelectionForeground": "#ffffff",
+		"list.inactiveSelectionForeground": "#ffffff",
+		"list.activeSelectionBackground": "#c98f2447",
+		"list.inactiveSelectionBackground": "#c98f2447",
+		"list.hoverBackground": "#ffffff30",
+		
+		"editorGroupHeader.noTabsBackground": "#3c4c55",
+		"editorGroupHeader.tabsBackground": "#3c4c55",
+		"editorGutter.background": "#3c4c55",
+		"editorWidget.background": "#3c4c55", // cmd + p, editor hover
+		
+		"input.background": "#2d393f",
+		"input.foreground": "#FFFFFF",
+		
+		"peekViewEditor.background": "#3c4c55",
+		"peekViewResult.background": "#3c4c55",
+		
+		"statusBarItem.remoteBackground": "#637681",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBar.background": "#2d393f",
+		
+		"tab.activeBackground": "#2d393f",
+		"tab.border": "#ffffff16",
+		"tab.inactiveBackground": "#3c4c55",
+		
+		"terminal.background": "#1f292e",
+		
+		"minimap.background": "#ffffff16",
+		
+		"button.background": "#6f6f6b",
+		"button.foreground": "#ffffff"
+	},
+	"settingsSync.ignoredExtensions": [
+		"cschlosser.doxdocgen"
+	],
+}
