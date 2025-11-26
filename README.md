@@ -43,4 +43,3 @@
 - 🥇 **Excellence Award, Metaverse Developer Contest** (2023)
 - 🥈 **2nd Place, Sleep AI Challenge** (2022)
 - 🏅 **Special Award, UNITHON 8** (2021)
-- 🥇 **Grand Prize, EOS Academic Festival** (2021)
