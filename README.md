@@ -18,14 +18,29 @@
 
 #
 
-### 🚀 Currently Working On
+### Experience
 
-- [**SnapShoot**](https://github.com/inticoy/snapshoot) – 3D football penalty shootout game for web and Toss Game Center
+- .
 
 #
 
-### 🏅 Highlights
+### Education
 
-- 🥉 **Kaggle CIBMTR Equity HCT Survival** – Bronze Medal (Top 7.5%), 2025  
-- 🥇 **Metaverse Developer Contest 2023** – Excellence Award (Qualcomm Korea), 2023  
-- 🥈 **Sleep AI Challenge ver.3 (SNUH MAIC)** – 2nd Place, 2022
+- 🎓 B.S. in Computer Software Engineering, **Hanyang University**
+- 🎓 Graduated from **Hankuk Academy of Foreign Studies (HAFS)**
+
+#
+
+### Services
+
+- ⚽️ [**SnapShoot**](https://github.com/inticoy/snapshoot) — Football penalty shootout game
+
+#
+
+### Achievements
+
+- 🥉 **Bronze Medal, Kaggle CIBMTR** (2025)
+- 🥇 **Excellence Award, Metaverse Developer Contest** (2023)
+- 🥈 **2nd Place, Sleep AI Challenge** (2022)
+- 🏅 **Special Award, UNITHON 8** (2021)
+- 🥇 **Grand Prize, EOS Academic Festival** (2021)
