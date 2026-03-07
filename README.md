@@ -1,7 +1,7 @@
 <h1 align="center">Inticoy</h1>
 
 <p align="center">
-  Geonwoo Yun · Backend Developer
+  Geonwoo Yun · Software Engineer
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### Experience
 
-- .
+- Software Engineer @ **Naver Corp.**
 
 #
 
