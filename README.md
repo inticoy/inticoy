@@ -18,51 +18,51 @@ I like building useful software, from reliable systems to playful products.
 ## Experience
 
 <p>
-  <img align="left" width="44" src="./assets/naver-logo-square.png" alt="NAVER Corp logo" />
-  &nbsp;&nbsp;&nbsp;<strong>Back-end Developer</strong><br />
-  &nbsp;&nbsp;&nbsp;<sub>Jan 2026 - Present · NAVER Corp</sub>
+  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="48" src="./assets/naver-logo-square.png" alt="NAVER Corp logo" />
+  &nbsp;<strong>Back-end Developer</strong><br />
+  Jan 2026 - Present · NAVER Corp
 </p>
-
-<br />
+<br clear="left" />
 
 ## Education
 
 <p>
-  <img align="left" width="44" src="./assets/hanyang-logo.png" alt="Hanyang University logo" />
-  &nbsp;&nbsp;&nbsp;<strong>Hanyang University</strong><br />
-  &nbsp;&nbsp;&nbsp;<sub>Mar 2019 - Feb 2026 · B.S. Computer Science</sub>
+  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="48" src="./assets/hanyang-logo.png" alt="Hanyang University logo" />
+  &nbsp;<strong>Hanyang University</strong><br />
+  Mar 2019 - Feb 2026 · B.S. Computer Science
 </p>
-
-<br />
+<br clear="left" />
 
 <p>
+  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/42seoul-logo-white.png" />
-    <img align="left" width="44" src="./assets/42seoul-logo.png" alt="42 Seoul logo" />
+    <img align="left" width="48" src="./assets/42seoul-logo.png" alt="42 Seoul logo" />
   </picture>
-  &nbsp;&nbsp;&nbsp;<strong>42 Seoul</strong><br />
-  &nbsp;&nbsp;&nbsp;<sub>Aug 2022 - Apr 2024 · Cadet</sub>
+  &nbsp;<strong>42 Seoul</strong><br />
+  Aug 2022 - Apr 2024 · Cadet
 </p>
-
-<br />
+<br clear="left" />
 
 <p>
-  <img align="left" width="44" src="./assets/hafs-logo.png" alt="Hankuk Academy of Foreign Studies logo" />
-  &nbsp;&nbsp;&nbsp;<strong>Hankuk Academy of Foreign Studies</strong><br />
-  &nbsp;&nbsp;&nbsp;<sub>Mar 2016 - Feb 2019 · Natural Science Track</sub>
+  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="48" src="./assets/hafs-logo.png" alt="Hankuk Academy of Foreign Studies logo" />
+  &nbsp;<strong>Hankuk Academy of Foreign Studies</strong><br />
+  Mar 2016 - Feb 2019 · Natural Science Track
 </p>
-
-<br />
+<br clear="left" />
 
 ## Services
 
 <p>
-  <img align="left" width="44" src="./assets/snapshoot-logo.png" alt="SnapShoot logo" />
-  &nbsp;&nbsp;&nbsp;<a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
-  &nbsp;&nbsp;&nbsp;<sub>Football penalty shootout game · Launched on App in Toss</sub>
+  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="48" src="./assets/snapshoot-logo.png" alt="SnapShoot logo" />
+  &nbsp;<a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
+  Football penalty shootout game · Launched on App in Toss
 </p>
-
-<br />
+<br clear="left" />
 
 ## Highlights
 
