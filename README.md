@@ -18,9 +18,9 @@ I like building useful software, from reliable systems to playful products.
 ## Experience
 
 <p>
-  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
   <img align="left" width="48" src="./assets/naver-logo-square.png" alt="NAVER Corp logo" />
-  &nbsp;<strong>Back-end Developer</strong><br />
+  <strong>Back-end Developer</strong><br />
   Jan 2026 - Present · NAVER Corp
 </p>
 <br clear="left" />
@@ -28,28 +28,28 @@ I like building useful software, from reliable systems to playful products.
 ## Education
 
 <p>
-  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
   <img align="left" width="48" src="./assets/hanyang-logo.png" alt="Hanyang University logo" />
-  &nbsp;<strong>Hanyang University</strong><br />
+  <strong>Hanyang University</strong><br />
   Mar 2019 - Feb 2026 · B.S. Computer Science
 </p>
 <br clear="left" />
 
 <p>
-  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/42seoul-logo-white.png" />
     <img align="left" width="48" src="./assets/42seoul-logo.png" alt="42 Seoul logo" />
   </picture>
-  &nbsp;<strong>42 Seoul</strong><br />
+  <strong>42 Seoul</strong><br />
   Aug 2022 - Apr 2024 · Cadet
 </p>
 <br clear="left" />
 
 <p>
-  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
   <img align="left" width="48" src="./assets/hafs-logo.png" alt="Hankuk Academy of Foreign Studies logo" />
-  &nbsp;<strong>Hankuk Academy of Foreign Studies</strong><br />
+  <strong>Hankuk Academy of Foreign Studies</strong><br />
   Mar 2016 - Feb 2019 · Natural Science Track
 </p>
 <br clear="left" />
@@ -57,16 +57,16 @@ I like building useful software, from reliable systems to playful products.
 ## Services
 
 <p>
-  <img align="left" width="8" height="48" src="./assets/spacer.svg" alt="" />
+  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
   <img align="left" width="48" src="./assets/snapshoot-logo.png" alt="SnapShoot logo" />
-  &nbsp;<a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
+  <a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
   Football penalty shootout game · Launched on App in Toss
 </p>
 <br clear="left" />
 
 ## Highlights
 
-**2025** · Kaggle CIBMTR, Bronze Medal
-<br />**2023** · Metaverse Developer Contest, Excellence Award
-<br />**2022** · Sleep AI Challenge, 2nd Place
-<br />**2021** · UNITHON 8, Special Award
+&nbsp;**2025** · Kaggle CIBMTR, Bronze Medal
+<br />&nbsp;**2023** · Metaverse Developer Contest, Excellence Award
+<br />&nbsp;**2022** · Sleep AI Challenge, 2nd Place
+<br />&nbsp;**2021** · UNITHON 8, Special Award
