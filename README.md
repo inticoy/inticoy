@@ -18,7 +18,7 @@ I like building useful software, from reliable systems to playful products.
 ## Experience
 
 <p>
-  <img align="left" width="60" src="./assets/naver-logo-square-leftpad.png" alt="NAVER Corp logo" />
+  <img align="left" width="54" src="./assets/naver-logo-square-leftpad.png" alt="NAVER Corp logo" />
   <strong>Back-end Developer</strong><br />
   Jan 2026 - Present · NAVER Corp
 </p>
@@ -27,7 +27,7 @@ I like building useful software, from reliable systems to playful products.
 ## Education
 
 <p>
-  <img align="left" width="60" src="./assets/hanyang-logo-leftpad.png" alt="Hanyang University logo" />
+  <img align="left" width="54" src="./assets/hanyang-logo-leftpad.png" alt="Hanyang University logo" />
   <strong>Hanyang University</strong><br />
   Mar 2019 - Feb 2026 · B.S. Computer Science
 </p>
@@ -36,7 +36,7 @@ I like building useful software, from reliable systems to playful products.
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/42seoul-logo-white-leftpad.png" />
-    <img align="left" width="60" src="./assets/42seoul-logo-leftpad.png" alt="42 Seoul logo" />
+    <img align="left" width="54" src="./assets/42seoul-logo-leftpad.png" alt="42 Seoul logo" />
   </picture>
   <strong>42 Seoul</strong><br />
   Aug 2022 - Apr 2024 · Cadet
@@ -44,7 +44,7 @@ I like building useful software, from reliable systems to playful products.
 <br clear="left" />
 
 <p>
-  <img align="left" width="60" src="./assets/hafs-logo-leftpad.png" alt="Hankuk Academy of Foreign Studies logo" />
+  <img align="left" width="54" src="./assets/hafs-logo-leftpad.png" alt="Hankuk Academy of Foreign Studies logo" />
   <strong>Hankuk Academy of Foreign Studies</strong><br />
   Mar 2016 - Feb 2019 · Natural Science Track
 </p>
@@ -53,7 +53,7 @@ I like building useful software, from reliable systems to playful products.
 ## Services
 
 <p>
-  <img align="left" width="60" src="./assets/snapshoot-logo-leftpad.png" alt="SnapShoot logo" />
+  <img align="left" width="54" src="./assets/snapshoot-logo-leftpad.png" alt="SnapShoot logo" />
   <a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
   Football penalty shootout game · Launched on App in Toss
 </p>
