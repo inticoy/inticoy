@@ -18,8 +18,7 @@ I like building useful software, from reliable systems to playful products.
 ## Experience
 
 <p>
-  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
-  <img align="left" width="48" src="./assets/naver-logo-square.png" alt="NAVER Corp logo" />
+  <img align="left" hspace="2" width="48" src="./assets/naver-logo-square.png" alt="NAVER Corp logo" />
   <strong>Back-end Developer</strong><br />
   Jan 2026 - Present · NAVER Corp
 </p>
@@ -28,18 +27,16 @@ I like building useful software, from reliable systems to playful products.
 ## Education
 
 <p>
-  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
-  <img align="left" width="48" src="./assets/hanyang-logo.png" alt="Hanyang University logo" />
+  <img align="left" hspace="2" width="48" src="./assets/hanyang-logo.png" alt="Hanyang University logo" />
   <strong>Hanyang University</strong><br />
   Mar 2019 - Feb 2026 · B.S. Computer Science
 </p>
 <br clear="left" />
 
 <p>
-  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/42seoul-logo-white.png" />
-    <img align="left" width="48" src="./assets/42seoul-logo.png" alt="42 Seoul logo" />
+    <img align="left" hspace="2" width="48" src="./assets/42seoul-logo.png" alt="42 Seoul logo" />
   </picture>
   <strong>42 Seoul</strong><br />
   Aug 2022 - Apr 2024 · Cadet
@@ -47,8 +44,7 @@ I like building useful software, from reliable systems to playful products.
 <br clear="left" />
 
 <p>
-  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
-  <img align="left" width="48" src="./assets/hafs-logo.png" alt="Hankuk Academy of Foreign Studies logo" />
+  <img align="left" hspace="2" width="48" src="./assets/hafs-logo.png" alt="Hankuk Academy of Foreign Studies logo" />
   <strong>Hankuk Academy of Foreign Studies</strong><br />
   Mar 2016 - Feb 2019 · Natural Science Track
 </p>
@@ -57,8 +53,7 @@ I like building useful software, from reliable systems to playful products.
 ## Services
 
 <p>
-  <img align="left" width="1" height="48" src="./assets/spacer.svg" alt="" />
-  <img align="left" width="48" src="./assets/snapshoot-logo.png" alt="SnapShoot logo" />
+  <img align="left" hspace="2" width="48" src="./assets/snapshoot-logo.png" alt="SnapShoot logo" />
   <a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
   Football penalty shootout game · Launched on App in Toss
 </p>
