@@ -1,0 +1,7 @@
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Email</title>
+  <rect x="0.5" y="0.5" width="33" height="33" rx="8" fill="#F8FAFC"/>
+  <rect x="0.5" y="0.5" width="33" height="33" rx="8" stroke="#D0D7DE"/>
+  <path d="M9 12.2C9 11.43 9.63 10.8 10.4 10.8H23.6C24.37 10.8 25 11.43 25 12.2V21.8C25 22.57 24.37 23.2 23.6 23.2H10.4C9.63 23.2 9 22.57 9 21.8V12.2Z" fill="#DC2626"/>
+  <path d="M10.6 12.45L17 17.25L23.4 12.45" stroke="#FFFFFF" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

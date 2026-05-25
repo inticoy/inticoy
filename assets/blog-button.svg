@@ -1,0 +1,8 @@
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Blog</title>
+  <rect x="0.5" y="0.5" width="33" height="33" rx="8" fill="#F8FAFC"/>
+  <rect x="0.5" y="0.5" width="33" height="33" rx="8" stroke="#D0D7DE"/>
+  <path d="M9.6 10.4C9.6 9.65 10.2 9.05 10.95 9.05H20.1L24.4 13.35V23.05C24.4 23.8 23.8 24.4 23.05 24.4H10.95C10.2 24.4 9.6 23.8 9.6 23.05V10.4Z" fill="#111827"/>
+  <path d="M20.05 9.2V13.4H24.25" fill="#F8FAFC"/>
+  <path d="M12.6 16.2H21.4M12.6 19.05H21.4M12.6 21.9H18.4" stroke="#F8FAFC" stroke-width="1.35" stroke-linecap="round"/>
+</svg>
