@@ -5,15 +5,24 @@ Geonwoo Yun · Back-end Developer
 
 I like building useful software, from reliable systems to playful products.
 
-<a href="https://linkedin.com/in/inticoy"><img width="34" src="./assets/linkedin-button.svg" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://inticoy.github.io"><img width="34" src="./assets/blog-button.svg" alt="Blog" /></a>
-&nbsp;
-<a href="mailto:inticoy.work@gmail.com"><img width="34" src="./assets/email-button.svg" alt="Email" /></a>
+<a href="https://linkedin.com/in/inticoy"><img width="28" src="./assets/linkedin-icon.svg" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://inticoy.github.io"><img width="28" src="./assets/blog-icon.svg" alt="Blog" /></a>
+&nbsp;&nbsp;
+<a href="mailto:inticoy.work@gmail.com"><img width="28" src="./assets/email-icon.svg" alt="Email" /></a>
 
 </div>
 
 <br />
+
+## Services
+
+<p>
+  <img align="left" width="54" src="./assets/snapshoot-logo-leftpad.png" alt="SnapShoot logo" />
+  <a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
+  Football penalty shootout game · Launched on App in Toss
+</p>
+<br clear="left" />
 
 ## Experience
 
@@ -50,18 +59,9 @@ I like building useful software, from reliable systems to playful products.
 </p>
 <br clear="left" />
 
-## Services
-
-<p>
-  <img align="left" width="54" src="./assets/snapshoot-logo-leftpad.png" alt="SnapShoot logo" />
-  <a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong></a><br />
-  Football penalty shootout game · Launched on App in Toss
-</p>
-<br clear="left" />
-
 ## Highlights
 
-&nbsp;**2025** · Kaggle CIBMTR, Bronze Medal
-<br />&nbsp;**2023** · Metaverse Developer Contest, Excellence Award
-<br />&nbsp;**2022** · Sleep AI Challenge, 2nd Place
-<br />&nbsp;**2021** · UNITHON 8, Special Award
+&nbsp;**2025** · Kaggle CIBMTR, Bronze Medal [[↗](#)]
+<br />&nbsp;**2023** · Metaverse Developer Contest, Excellence Award [[↗](#)]
+<br />&nbsp;**2022** · Sleep AI Challenge, 2nd Place [[↗](#)]
+<br />&nbsp;**2021** · UNITHON 8, Special Award [[↗](#)]

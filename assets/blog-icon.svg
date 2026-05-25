@@ -1,0 +1,6 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Blog</title>
+  <circle cx="14" cy="14" r="8.5" stroke="#111827" stroke-width="1.8"/>
+  <path d="M5.8 14H22.2" stroke="#111827" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M14 5.5C16.25 7.65 17.55 10.55 17.55 14C17.55 17.45 16.25 20.35 14 22.5C11.75 20.35 10.45 17.45 10.45 14C10.45 10.55 11.75 7.65 14 5.5Z" stroke="#111827" stroke-width="1.8" stroke-linejoin="round"/>
+</svg>
