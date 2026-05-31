@@ -50,9 +50,6 @@ I like building useful software, from reliable systems to playful products.
 </p>
 <br clear="left" />
 
-
-[![SnapShoot](https://img.shields.io/badge/SnapShoot-View-black?logo=github)](https://github.com/inticoy/snapshoot)
-
 ## Highlights
 
 &nbsp;**2025** · [Kaggle CIBMTR, Bronze Medal](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview)
