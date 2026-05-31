@@ -1,6 +1,6 @@
 # Geonwoo Yun
 
-**Inticoy** · Back-end Developer · [Blog ↗](https://inticoy.github.io)
+**Inticoy** · Back-end Developer · [Blog](https://inticoy.github.io)
 
 I like building useful software, from reliable systems to playful products.
 
@@ -45,14 +45,17 @@ I like building useful software, from reliable systems to playful products.
 
 <p>
   <img align="left" width="54" src="./assets/snapshoot-logo-leftpad.png" alt="SnapShoot logo" />
-  <strong>SnapShoot </strong><a href="https://github.com/inticoy/snapshoot">↗</a><br />
+  <a href="https://github.com/inticoy/snapshoot"><strong>SnapShoot</strong><a/></a><br />
   Football penalty shootout game · Launched on App in Toss
 </p>
 <br clear="left" />
 
+
+[![SnapShoot](https://img.shields.io/badge/SnapShoot-View-black?logo=github)](https://github.com/inticoy/snapshoot)
+
 ## Highlights
 
-&nbsp;**2025** · Kaggle CIBMTR, Bronze Medal [↗](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview)
-<br />&nbsp;**2023** · Metaverse Developer Contest, Excellence Award [↗](https://github.com/inticoy/RunderLand)
-<br />&nbsp;**2022** · Sleep AI Challenge, 2nd Place [↗](https://github.com/ken001111/Maic-Sleep-AI-Challenge-2022-public)
-<br />&nbsp;**2021** · UNITHON 8, Special Award [↗](#)
+&nbsp;**2025** · [Kaggle CIBMTR, Bronze Medal](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview)
+<br />&nbsp;**2023** · [Metaverse Developer Contest, Excellence Award](https://github.com/inticoy/RunderLand)
+<br />&nbsp;**2022** · [Sleep AI Challenge, 2nd Place](https://github.com/ken001111/Maic-Sleep-AI-Challenge-2022-public)
+<br />&nbsp;**2021** · [UNITHON 8, Special Award](#)
